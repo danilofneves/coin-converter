@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="erroExchangeListGeneral">Tivemos um problema ao trazer suas transações!</string>
+    <string name="erroExchangeInsertGeneral">Não Conseguimos cadastrar sua transação!</string>
+
+    <string name="msgSucess">Operação realizada com sucesso!</string>
+</resources>
